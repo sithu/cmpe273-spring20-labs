@@ -142,10 +142,9 @@ PATCH /classes/{id}
     "id": 1122334,
     "name": "CMPE-273",
     "students": [
-        {   "student" {
-                "id" : 1234456,
-                "name" : "Bob Smith"
-            }
+        {
+            "id" : 1234456,
+            "name" : "Bob Smith"
         }
     ]
 }
