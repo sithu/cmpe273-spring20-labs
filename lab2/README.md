@@ -44,6 +44,7 @@ def hello():
 * Run your Hello World Flask application from a shell/terminal.
 
 ```sh
+pipenv shell
 $ env FLASK_APP=app.py flask run
 ```
 
